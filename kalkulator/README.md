@@ -11,3 +11,4 @@ som pi, i kombinasjon med andre verdier. Eksempel: pi --> π, 2*pi --> 2 * π, 2
 (2pi) --> (2 * π), eller med andre tall. kan kombineres med brøk, der alt på venstre side
 av brøkstreken telles som teller, og alt på høyre blir ansett som nevner. Eksempel 
 2 * pi/2 --> π.
+\pi
