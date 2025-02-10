@@ -1,4 +1,4 @@
-# Kalkulator
+# Terminalkalkulator
 
 Når koden kjøres vil brukeren bli spurt om hvilken matematisk operasjon som skal brukes. 
 disse vil komme opp i terminalen, og må bli skrevet slikt det blir spurt om. Man kan 
