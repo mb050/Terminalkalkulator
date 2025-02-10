@@ -14,5 +14,5 @@ Eksempel: pi --> $\pi$, 2*pi --> $2 \cdot \pi$, 2pi --> $2 \cdot \pi$,
 (2pi) --> $(2 \cdot \pi)$. 
 
 Eksempel: 
-2 * pi/2 --> $\frac{2\cdot \pi}{2}$ --> $\pi$.
+$(4 * 5*pi)/(3 * 7) \Rightarrow \frac{(4\cdot5\pi)}{(3\cdot7)}$. 2 * pi/2 --> $\frac{2\cdot \pi}{2}$ --> $\pi$.
 
