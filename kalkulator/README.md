@@ -22,7 +22,7 @@ pi $\Rightarrow$ $\pi$
 
 Eksempel: 
 
-(4 * 5*pi)/(3 * 7) $\Rightarrow \frac{(4 \cdot 5 \cdot \pi)}{(3\cdot7)}$. 
+(4 * 5*pi)/(3 * 7) $\Rightarrow \frac{(4 \cdot 5 \cdot \pi)}{(3\cdot7)}$
 
-2 * pi/2 $\Rightarrow$ $\frac{2\cdot \pi}{2}$ $\Rightarrow$ $\pi$.
+2 * pi/2 $\Rightarrow$ $\frac{2\cdot \pi}{2}$ $\Rightarrow$ $\pi$
 
