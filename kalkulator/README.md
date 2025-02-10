@@ -10,7 +10,7 @@ kalkulatoren aksepterer bruk av brøk, slik som 2/4. Alt på venstre side
 av brøkstreken blir ansett som teller, og alt på høyre blir ansett som nevner. Den aksepterer $\pi$, skrevet
 som pi, i kombinasjon med andre verdier.
 
-Eksempel: 
+Eksempel med bruk av pi og hvordan det blir tolket: 
 
 pi $\Rightarrow$ $\pi$
 
@@ -18,9 +18,9 @@ pi $\Rightarrow$ $\pi$
 
 2pi $\Rightarrow$ $2 \cdot \pi$ 
 
-(2pi) $\Rightarrow$ $(2 \cdot \pi)$
+(2pi) $\Rightarrow$ $2 \cdot \pi$
 
-Eksempel: 
+Eksempel på bruk av brøk og pi: 
 
 (4 * 5*pi)/(3 * 7) $\Rightarrow \frac{(4 \cdot 5 \cdot \pi)}{(3\cdot7)}$
 
