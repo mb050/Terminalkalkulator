@@ -9,6 +9,6 @@ resultatet blir printet ut i terminalen.
 kalkulatoren aksepterer bruk av brøk, slik som 2/4. Den aksepterer $\pi$, skrevet
 som pi, i kombinasjon med andre verdier. Eksempel: pi --> $\pi$, 2*pi --> $2 \cdot \pi$, 2pi --> $2 \cdot \pi$, 
 (2pi) --> $(2 \cdot \pi)$, eller med andre tall. kan kombineres med brøk, der alt på venstre side
-av brøkstreken telles som teller, og alt på høyre blir ansett som nevner. Eksempel 
+av brøkstreken telles som teller, og alt på høyre blir ansett som nevner. Eksempel: 
 2 * pi/2 --> $\frac{2\cdot \pi}{2}$ --> $\pi$.
 
