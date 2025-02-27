@@ -1,5 +1,8 @@
 # Terminalkalkulator
 
+En enkel kalkulator som er ment å kunne brukes fra en terminal. laget i python 3.8, og bruker
+standard libraries. 
+
 Når koden kjøres vil brukeren bli spurt om hvilken matematisk operasjon som skal brukes. 
 disse vil komme opp i terminalen, og må bli skrevet slikt det blir spurt om. Man kan 
 skrive inn 'help', for å få opp en mer detaljert beskrivelse av hva de ulike operastorene 
