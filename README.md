@@ -16,21 +16,14 @@ av brøkstreken blir ansett som teller, og alt på høyre blir ansett som nevner
 som pi, i kombinasjon med andre verdier.
 
 Eksempel med bruk av pi og hvordan det blir tolket: 
-
-pi $\Rightarrow$ $\pi$
-
-2*pi $\Rightarrow$ $2 \cdot \pi$
-
-2pi $\Rightarrow$ $2 \cdot \pi$ 
-
-(2pi) $\Rightarrow$ $2 \cdot \pi$
+  - pi $\Rightarrow$ $\pi$
+  - 2*pi $\Rightarrow$ $2 \cdot \pi$
+  - 2pi $\Rightarrow$ $2 \cdot \pi$ 
+  - (2pi) $\Rightarrow$ $2 \cdot \pi$
 
 Eksempel på bruk av brøk og pi: 
-
-5pi/3 $\Rightarrow$ $\frac{5\cdot \pi}{3}$
-
-2 * pi/3 $\Rightarrow$ $\frac{2\cdot \pi}{3}$
-
-(4 * 5*pi)/(3 * 7) $\Rightarrow \frac{(4 \cdot 5 \cdot \pi)}{(3\cdot7)}$
+  - 5pi/3 $\Rightarrow$ $\frac{5\cdot \pi}{3}$
+  - 2 * pi/3 $\Rightarrow$ $\frac{2\cdot \pi}{3}$
+  - (4 * 5*pi)/(3 * 7) $\Rightarrow \frac{(4 \cdot 5 \cdot \pi)}{(3\cdot7)}$
 
 
