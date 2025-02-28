@@ -15,7 +15,7 @@ operator som kan velges:
   - div $\Rightarrow$ division
   - sqrt $\Rightarrow$ square root of first number
   - perc $\Rightarrow$ percentage:
-  - example: x% of y $\Rightarrow$ 5% of 100 = 5
+    - example: x% of y $\Rightarrow$ 5% of 100 = 5
   - sin $\Rightarrow$ sine of x, x is given in radians
   - cos $\Rightarrow$ cosine of x, x is given in radians
   - tan $\Rightarrow$ tangent of x, x is given in radians
