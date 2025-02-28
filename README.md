@@ -9,7 +9,19 @@ skrive inn 'help', for å få opp en mer detaljert beskrivelse av hva de ulike o
 gjør, og hvordan de brukes. 
 
 operator som kan velges:
-
+  - sub $\Rightarrow$ subtraction
+  - add $\Rightarrow$ addition
+  - mul $\Rightarrow$ multiplication
+  - div $\Rightarrow$ division
+  - sqrt $\Rightarrow$ square root of first number
+  - perc $\Rightarrow$ percentage:
+  - example: x% of y $\Rightarrow$ 5% of 100 = 5
+  - sin $\Rightarrow$ sine of x, x is given in radians
+  - cos $\Rightarrow$ cosine of x, x is given in radians
+  - tan $\Rightarrow$ tangent of x, x is given in radians
+  - log $\Rightarrow$ base e logarithm of x
+  - log10 $\Rightarrow$ base 10 logarithm of x
+  - fact $\Rightarrow$ the factorial of x, or simply x!
 
 Deretter blir man spurt om å legge til verdiene som skal brukes under kalkulasjonen, og
 resultatet blir printet ut i terminalen.
